@@ -39,8 +39,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=debzitaaaa&radius=16&theme=react&area=true&order=5&bg_color=8B4513&color=F4A460&line=D2B48C&point=D2B48C&area_color=FFDEAD" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/debzitaaaa/debzitaaaa/output/snake.svg" alt="Snake animation" />
-
-###
